@@ -4,7 +4,7 @@
   "description": "jewellery",
   "main": "index.js",
   "scripts": {
-    "start": "node intex.js"
+    "start": "node index.js"
   },
   "author": "Shaji",
   "license": "ISC",
