@@ -1,0 +1,16 @@
+{
+  "name": "jewelleryshop",
+  "version": "1.0.0",
+  "description": "jewellery",
+  "main": "index.js",
+  "scripts": {
+    "start": "node intex.js"
+  },
+  "author": "Shaji",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0"
+  }
+}
